@@ -13,7 +13,7 @@ gsap.to(".flelem",{
     endTrigger:".last",
     scrub:1
     },
-    y:"-300%",
+    y:"-200%",
     ease:Power2
   
 })
